@@ -2,4 +2,6 @@ Hola mi nombre es Carolina Hernandez Duran
 
 Tengo 30 años 
 
+Tengo una hija de 6 años  
+
 Estoy aprendiendo GIT
